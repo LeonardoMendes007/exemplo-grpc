@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "puK/M42ePaL7tYmfmoXoVFg1Ve/5YHofWO4rg5tgFfA=",
+  "Source": "ExemploGRPC.Server",
+  "BasePath": "_content/ExemploGRPC.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
